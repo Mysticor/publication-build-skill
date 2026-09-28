@@ -7,6 +7,8 @@ description: >-
 ---
 # Publication Build
 
+Research Workflow Skills · 04 · Publication. See the repository README for the four-stage series and installation.
+
 ## Project coordination contract 1.1 (incremental)
 Before local work, run `scripts/projectctl.py open PROJECT_ROOT` and read
 [the shared contract](../../../workflow-contract/README.md). This is the authoritative

@@ -1,5 +1,5 @@
 interface:
-  display_name: "Publication Build"
+  display_name: "Research Workflow · Publication"
   short_description: "文章 LaTeX/PDF 排版，以及审后论文的期刊合规与投稿源码包构建"
   icon_small: "./assets/publication.svg"
   icon_large: "./assets/publication.svg"
