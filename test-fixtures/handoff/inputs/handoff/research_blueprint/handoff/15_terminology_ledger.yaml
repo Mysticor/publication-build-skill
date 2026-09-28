@@ -1,0 +1,10 @@
+facts:
+  abbreviations: 'MOCK: arithmetic; not applicable to real science'
+  forbidden_alternatives: 'MOCK: arithmetic; not applicable to real science'
+  preferred_english: 'MOCK: arithmetic; not applicable to real science'
+  symbols: 'MOCK: arithmetic; not applicable to real science'
+  terms: 'MOCK: arithmetic; not applicable to real science'
+  units: 'MOCK: arithmetic; not applicable to real science'
+source_files:
+- research_blueprint/execution/actual_notes.md
+status: ACTUAL

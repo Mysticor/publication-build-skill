@@ -1,0 +1,23 @@
+table_id: Table 1
+target_section: Results
+scientific_purpose: Expose original inputs for recalculation
+question_answered: What values underlie R01?
+why_table: Exact rows, not trend or distribution inference
+rows:
+- Input 1
+- Input 2
+- Input 3
+columns:
+- Input order
+- value (dimensionless)
+data_sources:
+- inputs/handoff/data/mock.csv
+literature_sources: []
+sorting: Original input order
+statistics: Raw values only; mean stated in Results; no inference
+highlighting: None; all rows retained
+main_message: Calculation is inspectable from the full input list
+placement: MAIN
+source_file: tables/source/mock.csv
+caption_requirements: State synthetic inputs, units and no inferred population
+status: FINAL

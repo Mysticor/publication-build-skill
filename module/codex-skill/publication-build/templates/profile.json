@@ -1,0 +1,152 @@
+{
+  "journal": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "publisher": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "article_type": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "manuscript_type": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "scope": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "template": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "anonymity": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "title_page": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "abstract_limit": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "keywords": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "main_word_limit": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "page_limit": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "reference_style": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "figure_formats": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "figure_resolution": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "figure_sizes": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "figure_colors": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "table_rules": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "graphical_abstract": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "highlights": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "supplementary": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "data_availability": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "code_availability": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "conflicts": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "funding": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "credit": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "ethics": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "ai_disclosure": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "source_requirements": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  },
+  "upload_layout": {
+    "value": "UNKNOWN",
+    "required": true,
+    "source": null
+  }
+}

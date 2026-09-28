@@ -1,0 +1,1 @@
+Table 1. All three synthetic inputs in their original order. Values are dimensionless and are not observations from participants or a population. No inferential statistics apply.

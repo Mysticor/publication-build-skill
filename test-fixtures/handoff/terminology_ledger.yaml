@@ -1,0 +1,5 @@
+status: MOCK
+terms:
+  synthetic inputs: fixed test values, not sampled observations
+  mean: arithmetic average
+  retention: information preserved in the local notes

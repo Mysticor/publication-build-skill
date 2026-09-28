@@ -1,0 +1,2 @@
+claim_id,claim,importance,target_section,supporting_results,supporting_experiments,supporting_literature,conflicting_papers,evidence_strength,boundary,possible_overclaim,display_need
+C01,MOCK mean equals 2,CENTRAL,Results,R01,E01,mock_source,None in MOCK corpus; wider evidence unknown,Direct MOCK evidence,Synthetic fixture only,No field consensus or generalization,Table 1

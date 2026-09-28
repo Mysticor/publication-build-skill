@@ -1,0 +1,2 @@
+claim_id,fact_type,reference_id,locator,support_boundary
+C01,MOCK,mock_source,MOCK local input,Software test only

@@ -1,0 +1,39 @@
+figure_id: Figure 1
+working_title: MOCK calculation workflow
+target_section: Introduction
+scientific_question: How can the summary be recalculated?
+main_claim: C01
+why_figure: Expose conceptual relationship across processing steps
+why_table_insufficient: A table of exact inputs does not explain the transformation
+figure_type: METHOD_WORKFLOW
+overall_layout: One horizontal panel, left input-retaining record, right aggregate
+  record, labelled transition
+panel_count: 1
+required_data: []
+required_photos: []
+required_model_outputs: []
+required_literature: []
+labels_annotations:
+- Inputs
+- Mean
+- Retained information
+statistics: 'N/A: conceptual workflow, no statistical marks'
+caption_requirements: Explain both nodes and transformation; MOCK only; sources attributed
+reviewer_concern: Could schematic imply real evidence or full literature coverage?
+  Explicitly restrict scope.
+generation_route: nature-figure
+expected_source_files:
+- figures/source/mock.svg
+expected_outputs:
+- figures/final/Figure_01.svg
+provenance_mode: OWNED
+status: FINAL
+panels:
+- label: a
+  scientific_role: Explain information transformation
+  exact_content: "Two labelled boxes: retained inputs \u2192 reported mean. State\
+    \ that input rows are not recoverable from mean alone."
+  sources:
+  - inputs/handoff/code/mock_analysis.py
+  axes_variables: 'N/A: schematic'
+  visual_form: Flat vector boxes, one arrow, navy labels on white, no generated imagery

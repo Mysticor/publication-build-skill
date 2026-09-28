@@ -1,0 +1,11 @@
+facts:
+  actual_scale: 'MOCK: arithmetic; not applicable to real science'
+  labels: 'MOCK: arithmetic; not applicable to real science'
+  provenance: 'MOCK: arithmetic; not applicable to real science'
+  qc: 'MOCK: arithmetic; not applicable to real science'
+  source: 'MOCK: arithmetic; not applicable to real science'
+  split: 'MOCK: arithmetic; not applicable to real science'
+  version: 'MOCK: arithmetic; not applicable to real science'
+source_files:
+- research_blueprint/execution/actual_notes.md
+status: ACTUAL

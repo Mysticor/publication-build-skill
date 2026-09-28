@@ -1,0 +1,1 @@
+Figure 1. MOCK transformation from retained input rows to a reported mean. Boxes identify information states; the arrow denotes summarization, not causality. This owned software fixture is not empirical evidence.

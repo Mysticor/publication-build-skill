@@ -1,0 +1,14 @@
+facts:
+  equipment: 'MOCK: arithmetic; not applicable to real science'
+  hardware: 'MOCK: arithmetic; not applicable to real science'
+  implementation: 'MOCK: arithmetic; not applicable to real science'
+  model: 'MOCK: arithmetic; not applicable to real science'
+  parameters: 'MOCK: arithmetic; not applicable to real science'
+  preprocessing: 'MOCK: arithmetic; not applicable to real science'
+  setup: 'MOCK: arithmetic; not applicable to real science'
+  software: 'MOCK: arithmetic; not applicable to real science'
+  versions: 'MOCK: arithmetic; not applicable to real science'
+  workflow: 'MOCK: arithmetic; not applicable to real science'
+source_files:
+- research_blueprint/execution/actual_notes.md
+status: ACTUAL

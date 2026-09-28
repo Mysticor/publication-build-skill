@@ -1,0 +1,2 @@
+asset_id,type,path,source,experiment_id,date,provenance,what_it_shows,processing_history,publication_permission,quality,sha256,notes
+A01,RAW_DATA,data/mock.csv,MOCK generated fixture,E01,2026-09-10T07:57:53.219856+00:00,Created for software testing only,Three synthetic numbers,None; raw fixture,OWNED,MOCK valid CSV,398691f9ae1cc7dd7f4b7807369311a057ce75d7ef55442350ab7fe46d69edbb,MOCK

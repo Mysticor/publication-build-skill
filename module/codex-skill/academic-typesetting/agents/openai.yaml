@@ -1,0 +1,8 @@
+interface:
+  display_name: "Publication Build"
+  short_description: "保留原稿并遵守官方模板，自动编译修错、检查引用与 PDF 版面"
+  icon_small: "./assets/latex-document.svg"
+  icon_large: "./assets/latex-document.svg"
+  default_prompt: "调用 $academic-typesetting，将当前文章最终排版，生成经编译和视觉检查的 LaTeX 与 PDF。"
+policy:
+  allow_implicit_invocation: true

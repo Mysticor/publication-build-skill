@@ -1,0 +1,9 @@
+{
+  "status": "READY",
+  "test_only": true,
+  "production_ready": false,
+  "blockers": [],
+  "checked_at": "2026-09-10T07:57:53.264059+00:00",
+  "fingerprint": "25eea1a78629eee9d568c65caa8f5a42ba10a9b3803f1932eb6fec3f509d6fcf",
+  "author_checks": []
+}

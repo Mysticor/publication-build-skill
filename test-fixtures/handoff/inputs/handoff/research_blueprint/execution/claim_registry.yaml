@@ -1,0 +1,19 @@
+claims:
+- allowed_wording: MOCK mean equals 2
+  alternative_explanations:
+  - MOCK input change alters mean
+  boundary_conditions:
+  - Only synthetic values 1,2,3
+  claim: MOCK synthetic numbers have mean 2
+  claim_id: C01
+  evidence_strength: Direct synthetic arithmetic
+  forbidden_overclaim: No real-world conclusion or new scientific claim
+  importance: CENTRAL
+  status: SUPPORTED
+  supporting_experiments:
+  - E01
+  supporting_literature:
+  - mock_source
+  supporting_result_ids:
+  - R01
+schema_version: 1

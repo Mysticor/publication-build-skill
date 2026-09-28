@@ -1,0 +1,12 @@
+facts:
+  assumptions: 'MOCK: arithmetic; not applicable to real science'
+  metrics: 'MOCK: arithmetic; not applicable to real science'
+  n: 'MOCK: arithmetic; not applicable to real science'
+  planned_vs_post_hoc: 'MOCK: arithmetic; not applicable to real science'
+  repeats: 'MOCK: arithmetic; not applicable to real science'
+  tests: 'MOCK: arithmetic; not applicable to real science'
+  uncertainty: 'MOCK: arithmetic; not applicable to real science'
+  unit: 'MOCK: arithmetic; not applicable to real science'
+source_files:
+- research_blueprint/execution/actual_notes.md
+status: ACTUAL

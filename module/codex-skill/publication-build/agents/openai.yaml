@@ -1,0 +1,9 @@
+interface:
+  display_name: "Publication Build"
+  short_description: "文章 LaTeX/PDF 排版，以及审后论文的期刊合规与投稿源码包构建"
+  icon_small: "./assets/publication.svg"
+  icon_large: "./assets/publication.svg"
+  brand_color: "#0F766E"
+  default_prompt: "使用 $publication-build 接收审后交接包，开始第四阶段出版构建并验证投稿文件。"
+policy:
+  allow_implicit_invocation: true
